@@ -1,0 +1,11 @@
+pt-BR:
+  activerecord:
+    models:
+      customer: Cliente
+    attributes:
+      customer:
+        name: Nome
+        email: Email
+        birthday: Aniversário
+        obs: Observações
+        created_at: Criado em
