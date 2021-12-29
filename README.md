@@ -1,24 +1,38 @@
-# README
+# Curso de Ruby on Rails – Aulas 1 a 19
+# Jackson Pires
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Requisitos
 
-Things you may want to cover:
+```bash
+- Ruby 2.5.1  
+- Rails 5.2.1  
+- MySQL 5.7
+```
 
-* Ruby version
+### Instalação de dependências
 
-* System dependencies
+```bash
+bundle install
+```
 
-* Configuration
+### Lista de aulas - [Vídeos do curso](https://www.youtube.com/watch?v=ZHPondVB9RQ&list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP)
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Aula 01 - A história do Ruby  
+Aula 02 - O que eu preciso para trabalhar com Ruby on Rails  
+Aula 03 - Arquitetura MVC, Generators e gerando o primeiro projeto  
+Aula 04 - Estrutura de pastas do projeto e o Bundle  
+Aula 05 – Documentação Ruby, IRB e Pry  
+Aula 06 - Array, Hash, Métodos, Parâmetros e Blocos  
+Aula 07 - Classes, Módulos, Mixins e o Yield  
+Aula 08 – Banco de dados e Rake  
+Aula 09 – CoC e criando o primeiro scaffold  
+Aula 10 - Migrations, analisando e usando o Scaffold  
+Aula 11 - Views, Embedded Ruby e Textos  
+Aula 12 - Active Record, Rails Console e Variáveis de Instância  
+Aula 13 - Rotas, Criando um Controller e Usando Helpers  
+Aula 14 – Rotas REST / Restfull  
+Aula 15 - Symbols x Strings e brincando com Active Record  
+Aula 16 - Controllers, Filtros e Partials  
+Aula 17 – Helpers e Params  
+Aula 18 – Internationalization  
+Aula 19 - Twitter Bootstrap e i18n para Active Record  
